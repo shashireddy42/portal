@@ -1,4 +1,4 @@
-import profileImg from "../../assets/profile.jpg";
+import profileImg from "../../assets/profile.jpeg";
 import java from "../../assets/java.png";
 import spring from "../../assets/spring.png";
 import javascript from "../../assets/javascript.png";

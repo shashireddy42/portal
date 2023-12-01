@@ -46,6 +46,7 @@ const Contactus = () => {
   return (
     <div className="contact-us pt-3">
       <div className="header">Let get in touch</div>
+      <div className="mail pt-3">maddelashivanigoud@gmail.com</div>
       <div className="social_media_handles">
         <div>
           <ul>
@@ -57,12 +58,12 @@ const Contactus = () => {
                 <img src={linkedin} height={60} width={60}></img>
               </a>
             </li>
-            <li>
+            {/* <li>
               {" "}
               <a href="mailto:shashireddy903@gmail.com">
                 <img src={gmail} height={60} width={60}></img>
               </a>
-            </li>
+            </li> */}
             <li>
               {" "}
               <a

@@ -28,11 +28,11 @@ const Homepage = () => {
             </ul>
           </div>
         </div>
-        <div className="pt-3 button-position">
+        {/* <div className="pt-3 button-position">
           <button className="work-btn" onClick={handleRouting}>
             View My Work
           </button>
-        </div>
+        </div> */}
       </div>
     </div>
   );
